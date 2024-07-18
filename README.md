@@ -1,4 +1,4 @@
-<img src="https://github.com/AmrMustafa282/AmrMustafa282/blob/main/Card%20(1).png?raw=true"> 
+<img width="100%" src="https://github.com/AmrMustafa282/AmrMustafa282/blob/main/Card%20(1).png?raw=true"> 
  
 <!--<h2> Hey there! I'm Amr.</h2> -->
 
@@ -40,9 +40,17 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrMustafa282&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMustafa282&theme=buefy&layout=compact" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=AmrMustafa282&show_icons=true" />
+  <img height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMustafa282&layout=donut" />
 </a>
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMustafa282&theme=buefy&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AmrMustafa282" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMustafa282&layout=donut" />
+</a> -->
 
 <br/>
 
